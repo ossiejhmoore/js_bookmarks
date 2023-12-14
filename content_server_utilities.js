@@ -1,3 +1,6 @@
+// NOTE: I make use of JQuery here because Content Server loads JQuery in classic view.
+//       These are intended to be used in classic view.
+//
 
 // stretch _Path fields to 800px
 (function(){
